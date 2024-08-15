@@ -18,6 +18,11 @@
             </td>            
             <td style="text-align: center">
                 <a href="https://bloclibrary.dev/tutorials/flutter-infinite-list">
+                    <img src="assets/examples/bloc_forms.png" width="200"/>
+                </a>
+            </td>
+            <td style="text-align: center">
+                <a href="https://bloclibrary.dev/tutorials/flutter-infinite-list">
                     <img src="https://raw.githubusercontent.com/felangel/bloc/master/assets/examples/flutter_infinite_list.gif" width="200"/>
                 </a>
             </td>
